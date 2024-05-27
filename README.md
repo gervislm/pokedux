@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# pokedux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project created to better understand how redux works in react.js
 
 ## Available Scripts
 
